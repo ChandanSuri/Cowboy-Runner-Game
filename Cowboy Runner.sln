@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cowboy Runner.CSharp", "Cowboy Runner.CSharp.csproj", "{E7D76B11-F56A-C275-027D-F97FC0B2233B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D76B11-F56A-C275-027D-F97FC0B2233B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D76B11-F56A-C275-027D-F97FC0B2233B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D76B11-F56A-C275-027D-F97FC0B2233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D76B11-F56A-C275-027D-F97FC0B2233B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
