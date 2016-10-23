@@ -70,7 +70,9 @@
     <Compile Include="Assets\Scripts\Background Scripts\BGScaler.cs" />
     <Compile Include="Assets\Scripts\Obstacles Scripts\Obstacle.cs" />
     <Compile Include="Assets\Scripts\Obstacles Scripts\ObstacleSpawner.cs" />
+    <Compile Include="Assets\Scripts\Obstacles Scripts\ObstaclesOffScreen.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerAnimation.cs" />
+    <Compile Include="Assets\Scripts\Player Scripts\PlayerDied.cs" />
     <Compile Include="Assets\Scripts\Player Scripts\PlayerJump.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
